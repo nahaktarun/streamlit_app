@@ -16,6 +16,8 @@ ticker_symbol =  st.text_input(
 )
 # ticker_symbol = "AAPL"
 
+# $caleraws123$
+
 
 col1 , col2 = st.columns(2)
 with col1:
